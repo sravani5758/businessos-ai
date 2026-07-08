@@ -1,0 +1,1 @@
+{"version":3,"file":"business.js","sourceRoot":"","sources":["../../src/data/business.ts"],"names":[],"mappings":";;;AAKa,QAAA,cAAc,GAAa;IACtC,IAAI,EAAE,UAAU;IAChB,cAAc,EAAE,qBAAqB;IACrC,WAAW,EAAE,cAAc;IAC3B,OAAO,EAAE,eAAe;IACxB,OAAO,EAAE,sBAAsB;IAC/B,SAAS,EAAE,uBAAuB;IAClC,UAAU,EAAE,QAAQ;CACrB,CAAC"}
