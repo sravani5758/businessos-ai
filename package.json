@@ -1,0 +1,8 @@
+{
+  "name": "businessos-ai",
+  "private": true,
+  "workspaces": [
+    "BusinessOS-backend",
+    "business-core"
+  ]
+}
